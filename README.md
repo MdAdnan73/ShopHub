@@ -1,7 +1,7 @@
 # Welcome to ShopHub
 
 ## Project info
-
+Project Preview Link: https://commerce-canvas-store.lovable.app
 **URL**: https://lovable.dev/projects/ff35f864-a8af-462e-9b33-27bb007c61b7
 
 ## How can I edit this code?
